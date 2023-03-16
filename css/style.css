@@ -1,0 +1,26 @@
+.card {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#63d3cf+27,afd341+56,edc453+87&0.8+19,0.83+56,0.9+94,0.8+94 */
+    background: -moz-linear-gradient(left, rgba(99, 211, 207, 0.8) 19%, rgba(99, 211, 207, 0.81) 27%, rgba(175, 211, 65, 0.83) 56%, rgba(237, 196, 83, 0.81) 87%, rgba(237, 196, 83, 0.8) 94%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgba(99, 211, 207, 0.8) 19%, rgba(99, 211, 207, 0.81) 27%, rgba(175, 211, 65, 0.83) 56%, rgba(237, 196, 83, 0.81) 87%, rgba(237, 196, 83, 0.8) 94%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgba(99, 211, 207, 0.8) 19%, rgba(99, 211, 207, 0.81) 27%, rgba(175, 211, 65, 0.83) 56%, rgba(237, 196, 83, 0.81) 87%, rgba(237, 196, 83, 0.8) 94%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cc63d3cf', endColorstr='#ccedc453', GradientType=1);
+    /* IE6-9 */
+    --bs-card-spacer-y: 2rem;
+    --bs-card-spacer-x: 4rem;
+}
+
+body {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#63d3cf+37,edc453+74&0.8+19,0.83+56,0.9+94,0.8+94 */
+    background: -moz-linear-gradient(left, rgba(99, 211, 207, 0.8) 19%, rgba(99, 211, 207, 0.81) 37%, rgba(170, 203, 143, 0.83) 56%, rgba(237, 196, 83, 0.82) 74%, rgba(237, 196, 83, 0.8) 94%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgba(99, 211, 207, 0.8) 19%, rgba(99, 211, 207, 0.81) 37%, rgba(170, 203, 143, 0.83) 56%, rgba(237, 196, 83, 0.82) 74%, rgba(237, 196, 83, 0.8) 94%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgba(99, 211, 207, 0.8) 19%, rgba(99, 211, 207, 0.81) 37%, rgba(170, 203, 143, 0.83) 56%, rgba(237, 196, 83, 0.82) 74%, rgba(237, 196, 83, 0.8) 94%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cc63d3cf', endColorstr='#ccedc453', GradientType=1);
+    /* IE6-9 */
+
+}
